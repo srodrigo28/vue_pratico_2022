@@ -1,4 +1,13 @@
-# 2_projeto_vue
+## Project Trabalhando com Vue
+
+### Criando um Projeto
+```
+vue create app
+```
+* link do projeto
+    ```
+        https://www.youtube.com/watch?v=yrxG24n1oXI&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=4
+    ```
 
 ## Project setup
 ```
